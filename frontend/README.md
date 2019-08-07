@@ -1,3 +1,3 @@
-# Price deal and store  with Raect and GraphQL
+# Price deal and store  with React and GraphQL
 
 
